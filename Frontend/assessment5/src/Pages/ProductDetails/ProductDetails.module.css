@@ -1,0 +1,12 @@
+.productPageSection{
+    display: flex;
+    align-items: center;
+}
+
+.infoList{
+    list-style: none;
+}
+
+.infoList > li {
+    margin: 10px 0;
+}
